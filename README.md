@@ -1,3 +1,3 @@
-![image](Assets/Logo.png)
+![image](Assets/Logo_small.png)
 # SwitchJs
-A JavaScript console, intended for experimenting with the Nintendo Switch Console.
+A JavaScript console emulator, intended for experimenting with the Nintendo Switch Console.
