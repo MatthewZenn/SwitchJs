@@ -31,7 +31,7 @@ h1 {
     height: 30px;
     width: 98%;
     position: absolute;
-    top: 60px;
+    bottom: 50px;
     left: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: grey;
@@ -39,8 +39,8 @@ h1 {
     overflow-x: hidden;
     font-size: 14pt;
     border: none;
-    border-bottom: 1px solid grEy;
-    background: transparent;
+    border-top: 1px solid grEy;
+    background: transparent
 }
 
 #run {
