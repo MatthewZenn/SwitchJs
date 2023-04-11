@@ -6,3 +6,7 @@ code.addEventListener("keypress", function onEvent(event) {
         code.value = ""; 
     }
 });
+
+document.getElementById("img").addEventListener('click', () => {
+    window.location.reload()
+});
