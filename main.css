@@ -45,3 +45,20 @@ h1 {
     border-bottom: 1px solid grEy;
     background: transparent
 }
+
+#snippets {
+    height: 80%;
+    width: 98%;
+    position: absolute;
+    transform: translate(-50%, 0%);
+    top: 150px;
+    left: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(65, 81, 82);
+    outline: none;
+    overflow-x: hidden;
+    font-size: 14pt;
+    border: none;
+    background: transparent;
+    resize: none;
+}
