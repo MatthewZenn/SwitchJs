@@ -27,6 +27,9 @@ h1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16pt;
     font-weight: 400;
+    position: relative;
+    transform: translate(-50%, 0%);
+    left: 50%;
 }
 
 #code {
